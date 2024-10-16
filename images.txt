@@ -6,8 +6,9 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #fzkun
-mysql:5.7
-redis:latest
-hamstershare/oh-cloudhis-backend:1.0.0
-hamstershare/oh-cloudhis-frontend:1.0.0
-ollama/ollama:0.3.13
+#mysql:5.7
+#redis:latest
+#hamstershare/oh-cloudhis-backend:1.0.0
+#hamstershare/oh-cloudhis-frontend:1.0.0
+#ollama/ollama:0.3.13
+chromedp/headless-shell:latest
