@@ -10,5 +10,5 @@ nginx
 #redis:latest
 #hamstershare/oh-cloudhis-backend:1.0.0
 #hamstershare/oh-cloudhis-frontend:1.0.0
-#ollama/ollama:0.3.13
+ollama/ollama:0.3.14
 chromedp/headless-shell:latest
