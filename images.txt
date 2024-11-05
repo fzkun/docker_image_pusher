@@ -12,3 +12,4 @@ nginx
 #hamstershare/oh-cloudhis-frontend:1.0.0
 ollama/ollama:0.3.14
 chromedp/headless-shell:latest
+golang:1.23.2
