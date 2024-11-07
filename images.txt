@@ -7,6 +7,7 @@ nginx
 
 #fzkun
 #mysql:5.7
+mysql:8.0.40
 #redis:latest
 #hamstershare/oh-cloudhis-backend:1.0.0
 #hamstershare/oh-cloudhis-frontend:1.0.0
