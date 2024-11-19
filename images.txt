@@ -14,6 +14,6 @@ mysql:8.0.40-debian
 #redis:latest
 #hamstershare/oh-cloudhis-backend:1.0.0
 #hamstershare/oh-cloudhis-frontend:1.0.0
-ollama/ollama:0.3.14
+ollama/ollama:0.4.2
 chromedp/headless-shell:latest
-golang:1.23.2
+golang:1.23.4
