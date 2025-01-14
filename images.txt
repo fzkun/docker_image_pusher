@@ -21,6 +21,7 @@
 #node:19
 #postgres:11
 #eoskin/electron-release-server
+fightroad/dicomscp:latest
 
 #stf
 rethinkdb:2.4.2
