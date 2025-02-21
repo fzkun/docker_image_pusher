@@ -14,20 +14,20 @@
 #redis:latest
 #hamstershare/oh-cloudhis-backend:1.0.0
 #hamstershare/oh-cloudhis-frontend:1.0.0
-ollama/ollama:0.5.7
-ollama/ollama
+#ollama/ollama:0.5.7
+ollama/ollama:latest
 #chromedp/headless-shell:latest
 #golang:1.23.4
 #ubuntu:22.04
 #node:19
 #postgres:11
 #eoskin/electron-release-server
-fightroad/dicomscp:latest
+#fightroad/dicomscp:latest
 
 #stf
-rethinkdb:2.4.2
-devicefarmer/adb:latest
-devicefarmer/stf:latest
+#rethinkdb:2.4.2
+#devicefarmer/adb:latest
+#devicefarmer/stf:latest
 
 node:22-alpine3.20
 python:3.11-slim-bookworm
