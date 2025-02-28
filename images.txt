@@ -23,6 +23,7 @@ ollama/ollama:latest
 #postgres:11
 #eoskin/electron-release-server
 #fightroad/dicomscp:latest
+moxm/java:1.8-full
 
 #stf
 #rethinkdb:2.4.2
