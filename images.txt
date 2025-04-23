@@ -18,6 +18,8 @@
 #ollama/ollama:latest
 #chromedp/headless-shell:latest
 #golang:1.23.4
+golang:latest
+alpine:latest
 #ubuntu:22.04
 #node:19
 #postgres:11
