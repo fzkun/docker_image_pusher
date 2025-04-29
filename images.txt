@@ -14,8 +14,8 @@
 #redis:latest
 #hamstershare/oh-cloudhis-backend:1.0.0
 #hamstershare/oh-cloudhis-frontend:1.0.0
-#ollama/ollama:0.5.7
-#ollama/ollama:latest
+ollama/ollama:0.6.6
+ollama/ollama:latest
 #chromedp/headless-shell:latest
 #golang:1.23.4
 golang:latest
