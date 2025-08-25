@@ -1,6 +1,7 @@
 #nginx
 nginx:1.28-alpine
 nginx:alpine
+node:16.4.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -16,7 +17,7 @@ nginx:alpine
 #redis:latest
 #hamstershare/oh-cloudhis-backend:1.0.0
 #hamstershare/oh-cloudhis-frontend:1.0.0
-ollama/ollama:0.6.6
+#ollama/ollama:0.6.6
 ollama/ollama:latest
 #chromedp/headless-shell:latest
 #golang:1.23.4
@@ -27,13 +28,13 @@ alpine:latest
 #postgres:11
 #eoskin/electron-release-server
 #fightroad/dicomscp:latest
-moxm/java:1.8-full
+#moxm/java:1.8-full
 
 #stf
 #rethinkdb:2.4.2
 #devicefarmer/adb:latest
 #devicefarmer/stf:latest
 
-node:22-alpine3.20
-python:3.11-slim-bookworm
-gpustack/gpustack:latest
+#node:22-alpine3.20
+#python:3.11-slim-bookworm
+#gpustack/gpustack:latest
