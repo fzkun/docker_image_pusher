@@ -22,7 +22,7 @@ node:20-slim
 #ollama/ollama:0.6.6
 ollama/ollama:latest
 #chromedp/headless-shell:latest
-#golang:1.23.4
+golang:1.23.9
 golang:latest
 alpine:latest
 #ubuntu:22.04
