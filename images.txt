@@ -26,6 +26,7 @@ mysql:8.0.46-debian
 ollama/ollama:latest
 #chromedp/headless-shell:latest
 #golang:1.23.9
+golang:1.25.0
 golang:latest
 alpine:latest
 #ubuntu:22.04
